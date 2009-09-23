@@ -1,9 +1,9 @@
-#summary One-sentence summary of this page.
 #labels Phase-Implementation
+OpenGL Texture Tutorial
 
 = Introduction =
 
-OpenGL Texture Tutorial
+This is a tutorial about how to set textures in OpenGL
 
 
 = Details =
